@@ -15,6 +15,6 @@ Este portfólio reúne alguns dos meus projetos e estudos.
 - Protótipos no Figma: Coloquei em prática a criação de telas e protótipos interativos para simular a experiência real.
 - Design Centrado no Usuário: Entendi a importância de tomar decisões de design baseadas nas necessidades e no comportamento do usuário, e não apenas em preferências estéticas.
 - Iteração e Feedback: Compreendi que o feedback dos usuários é importante para refinar e melhorar um produto.
-- Análise de UI/UX: Aprofundei minhas habilidades em recriar interfaces, prestando atenção á hierarquia visual, uso de cores e tipografia para criar uma experiência de usuário agradável. 
-  
-[ Ver o Projeto Completo no Figma do Redesign do Spotify]:https://www.figma.com/design/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1         
+- Análise de UI/UX: Aprofundei minhas habilidades em recriar interfaces, prestando atenção á hierarquia visual, uso de cores e tipografia para criar uma experiência de usuário agradável.  
+
+[ Ver o Projeto Completo no Figma do Redesign do Spotify]: https://www.figma.com/design/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1         
