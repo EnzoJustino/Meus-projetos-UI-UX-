@@ -4,7 +4,7 @@ Bem-Vindo ao meu espaço de design!
 Este portfólio reúne alguns dos meus projetos e estudos.
 
 
- 1-Projeto: Redesign do Aplicativo Spotify
+ -Projeto 1: Redesign do Aplicativo Spotify
 
  (Descrição do Projeto):
  Este é um projeto de redesign UI/UX do aplicativo mobile do Spotify.
