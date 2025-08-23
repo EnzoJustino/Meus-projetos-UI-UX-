@@ -17,4 +17,4 @@ Este portfólio reúne alguns dos meus projetos e estudos.
 - Iteração e Feedback: Compreendi que o feedback dos usuários é importante para refinar e melhorar um produto.
 - Análise de UI/UX: Aprofundei minhas habilidades em recriar interfaces, prestando atenção á hierarquia visual, uso de cores e tipografia para criar uma experiência de usuário agradável.  
 
-[ Ver o Projeto Completo no Figma do Redesign do Spotify]: https://www.figma.com/design/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1         
+[ Ver o Projeto Completo no Figma do Redesign do Spotify]: https://www.figma.com/proto/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1        
