@@ -1,21 +1,25 @@
-Meu Portfólio de UI/UX  Design
+My UI/UX Design Portfolio
 
-Bem-Vindo ao meu espaço de design!
-Este portfólio reúne alguns dos meus projetos e estudos.
+I am a beginner UI/UX designer building my skills and experience. I am passionate about creating intuitive and user-friendly interfaces and I aim to grow professionally, working on projects in Brazil or internationally, including opportunities in Canada.
 
+Project 1: Spotify App Redesign
 
- -Projeto 1: Redesign do Aplicativo Spotify
+(Project Description):
 
- (Descrição do Projeto):
- Este é um projeto de redesign UI/UX do aplicativo mobile do Spotify.
- Meu Objetivo foi praticar minhas habilidades no Figma e entender como a experiência do usuário é construida em um app tão popular como o Spotify.
-  
-  (O que aprendi):
-- Recriação da UI: Pratiquei o uso de cores, tipografia e espaçamento para garantir que a interface fosse fiel ao original.
-- Protótipos no Figma: Coloquei em prática a criação de telas e protótipos interativos para simular a experiência real.
-- Design Centrado no Usuário: Entendi a importância de tomar decisões de design baseadas nas necessidades e no comportamento do usuário, e não apenas em preferências estéticas.
-- Iteração e Feedback: Compreendi que o feedback dos usuários é importante para refinar e melhorar um produto.
-- Análise de UI/UX: Aprofundei minhas habilidades em recriar interfaces, prestando atenção á hierarquia visual, uso de cores e tipografia para criar uma experiência de usuário agradável.  
+This project is a UI/UX redesign of the Spotify mobile app.
+My goal was to practice using Figma and to explore how user experience is designed in one of the most popular apps worldwide.
 
-[Ver o Projeto Completo no Figma do Redesign do Spotify](https://www.figma.com/proto/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1)    
+(What I Learned):
+
+UI Recreation: Practiced working with colors, typography, and spacing to make the interface consistent and visually clear.
+
+Figma Prototypes: Gained experience in building interactive screens and prototypes to simulate user flows.
+
+User-Centered Design: Learned the value of making design decisions based on user needs and behaviors instead of only aesthetic choices.
+
+Iteration & Feedback: Discovered the importance of feedback in refining and improving a design solution.
+
+UI/UX Analysis: Improved my attention to visual hierarchy, color contrast, and typography to create a more intuitive user experience.
+
+[View the full Spotify Redesign project on Figma](https://www.figma.com/proto/tcyek4cKqcQYpSTYRQHjmf/Untitled?node-id=0-1&t=YvV4e8uFpNxiTn73-1)    
        
