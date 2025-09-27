@@ -1,6 +1,6 @@
 My UI/UX Design Portfolio
 
-I am a beginner UI/UX designer building my skills and experience. I am passionate about creating intuitive and user-friendly interfaces and I aim to grow professionally, working on projects in Brazil or internationally, including opportunities in Canada.
+I am a beginner UI/UX designer building my skills and experience. I am passionate about creating intuitive and user-friendly interfaces and I want to grow as a designer, working on projects in Brazil or internationally, including opportunities in Canada.
 
 Project 1: Spotify App Redesign
 
